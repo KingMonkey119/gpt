@@ -1,0 +1,32 @@
+开启步骤：
+       开好Steam和加速器，接着管理员运行本软件，输入卡密登录，登录成功后点击注入
+注入成功上游戏即可。
+------------------------------------------------------------------------------------
+注意事项：
+1.注入成功后会断网一段时间，不必理会直接上游戏，进入游戏后网络自动恢复。
+如果没有恢复，请管理员运行断网恢复即可。
+
+2.部分功能需要先勾选，再使用热键才生效。详细请看软件界面。
+
+3.END键 显示隐藏菜单。
+
+4.使用吸光柱，需要把补给箱透视勾选勾上。
+
+5.自动吃喝，是快捷栏8和9，8吃，9喝。
+
+6.自动吸包功能包括（炮塔，树脂龙头，光柱，尸体，物品包，河狸窝，蜂巢）
+
+7.原地上光功能需要绑定热键，部分热键不支持，如果出现问题请更换
+------------------------------------------------------------------------------------
+Opening steps:
+        Start Steam, the administrator runs the software, enters the registration code, logs in to the software, 
+successfully logs in, clicks injection, and successfully injects into the game.
+------------------------------------------------------------------------------------
+note:
+1. After successful injection, the network will be disconnected for a period of time. You don't need to pay attention to it and can directly access the game. Once you enter the game, the network will automatically resume.
+If there is no recovery, please ask the administrator to run (restore network).
+
+2. Some functions need to be checked first before using hotkeys to take effect. Please refer to the software interface for details.
+
+3. The END button displays hidden menus.
+------------------------------------------------------------------------------------
